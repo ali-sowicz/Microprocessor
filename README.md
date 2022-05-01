@@ -6,4 +6,4 @@ Make sure that <code>.txt</code> file path in <code>Program.cs</code> is correct
 # Preview 
 
 
-<img src="https://user-images.githubusercontent.com/94705023/166164487-53ab9820-4dea-4c81-89fe-ff7c5ffe8b23.png"width="400">
+<img src="https://user-images.githubusercontent.com/94705023/166164487-53ab9820-4dea-4c81-89fe-ff7c5ffe8b23.png" width="700">
